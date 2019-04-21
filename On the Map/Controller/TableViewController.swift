@@ -23,6 +23,7 @@ class TableViewController: UIViewController, UITableViewDelegate, UITableViewDat
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
+        print("will appear")
         getStudentLocation()
     }
     
