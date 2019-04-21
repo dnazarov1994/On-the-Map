@@ -15,6 +15,7 @@ class TableViewController: UIViewController, UITableViewDelegate, UITableViewDat
     
     var data: [StudentInformation] = []
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.delegate = self
