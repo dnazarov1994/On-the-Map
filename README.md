@@ -17,8 +17,8 @@ The app using data from two network resources:
 
 ## User information
 The app has a request with student information from the server:
-
-   "struct LocationRequest: Codable {
+```
+struct LocationRequest: Codable {
     var uniqueKey: String
     var firstName: String
     var lastName: String
@@ -26,20 +26,8 @@ The app has a request with student information from the server:
     var mediaUrl: String
     var latitude: Double
     var longtitude: Double
-}"
+}
+```
 ## Error handling
 If the submission fails to post the data to the server, then the user see an alert with an error message describing the failure.
-extension UIViewController {
-    
-   func show(error: Error) {
-       showAlert(title: "ERROR", message: error.localizedDescription)
-   }
-    
-   func showAlert(title: String? = nil, message: String? = nil) {
-       let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
-       let action = UIAlertAction(title: "OK", style: .default, handler: nil)
-       alertController.addAction(action)
-       self.present(alertController, animated: true, completion: nil)
-   }
 
-}
