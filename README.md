@@ -1,5 +1,5 @@
 # On the Map
-On the map app allows student to share any information with others
+On the map app allows a student to share any information with others
 
 ## Architecture
 #### The app has three view controller scenes:
@@ -8,7 +8,7 @@ On the map app allows student to share any information with others
 - Information Posting View: Allows the users specify their own locations and links with information.
 
 ## Functionality
-The map contain pins that show the location where other students have reported studying. By tapping on the pin users can see a URL for something the student finds interesting. The user able to add his own data by posting a string that can be reverse geocoded to a location, and a URL.
+The map contains pins that show the location where other students have reported studying. By tapping on the pin users can see a URL for something the student finds interesting. The user able to add his own data by posting a string that can be reverse geocoded to a location, and a URL.
 
 ## Data from network resources
 The app using data from two network resources:
