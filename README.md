@@ -29,5 +29,5 @@ struct LocationRequest: Codable {
 }
 ```
 ## Error handling
-If the submission fails to post the data to the server, then the user see an alert with an error message describing the failure.
+If the submission fails to post the data to the server, then the user sees an alert with an error message describing the failure.
 
