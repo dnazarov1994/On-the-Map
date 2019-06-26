@@ -1,5 +1,5 @@
 # On the Map
-On the map app allows a student to share any information with others
+On the Map app allows a student to share information with others and posting it on the map using coordinates associated with students location. 
 
 ## Architecture
 #### The app has three view controller scenes:
