@@ -10,7 +10,7 @@ On the Map app allows a student to share information with others and posting it 
 ## Functionality
 The map contains pins that show the location where other students have reported studying. By tapping on the pin users can see a URL for something the student finds interesting. The user able to add his own data by posting a string that can be reverse geocoded to a location, and a URL.
 
-## Data from network resources
+## API
 The app using data from two network resources:
 ###### Parse API: "https://parse.udacity.com/parse/classes/"
 ###### Udacity API: "https://onthemap-api.udacity.com/v1/"
