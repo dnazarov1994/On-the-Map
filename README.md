@@ -3,6 +3,7 @@ On the Map app allows a student to share information with others and posting it 
 
 <img width="298" alt="Screen Shot 2019-08-18 at 9 48 35 PM" src="https://user-images.githubusercontent.com/46335329/63234165-2059f400-c202-11e9-8cbb-d2b54f630e07.png">
 
+<img width="299" alt="Screen Shot 2019-08-18 at 9 35 32 PM" src="https://user-images.githubusercontent.com/46335329/63234191-41224980-c202-11e9-9e6d-90168ddb5433.png">
 
 
 
