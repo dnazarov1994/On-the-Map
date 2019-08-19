@@ -1,5 +1,8 @@
 # On the Map
 On the Map app allows a student to share information with others and posting it on the map using coordinates associated with students location. 
+<img width="304" alt="Screen Shot 2019-08-18 at 9 33 53 PM" src="https://user-images.githubusercontent.com/46335329/63233926-d7557000-c200-11e9-993b-a0e80809d2b8.png">
+
+
 
 ## Architecture
 #### The app has three view controller scenes:
