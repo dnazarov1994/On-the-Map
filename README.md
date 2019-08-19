@@ -1,6 +1,7 @@
 # On the Map
 On the Map app allows a student to share information with others and posting it on the map using coordinates associated with students location. 
 
+<img width="301" alt="Screen Shot 2019-08-18 at 9 44 08 PM" src="https://user-images.githubusercontent.com/46335329/63234049-85611a00-c201-11e9-9e12-9c522f62925b.png">
 
 
 
